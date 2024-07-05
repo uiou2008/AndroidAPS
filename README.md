@@ -52,7 +52,7 @@ https://afdian.net/a/manong
   `STORE_PASSWORD`: 你的安卓签名文件的store密码。
 * 在Github Actions中触发编译
 * 下载`Artifacts`中的编译产物`aaps.zip` 
-
+ 
 ### If your are NOT familiar with Android development:
 You need to get the secerts of the key store file to sign your application. For security reason, all of the passwords are NOT in this repoitory.
 **It's really recommanded that you can sign your apk file with your own key store file after learning some Android knowledge.**
